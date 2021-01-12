@@ -1,0 +1,19 @@
+.mt {
+  margin-top: 2rem;
+}
+
+.img-column {
+  width: 100%;
+  max-width: 376px;
+}
+
+.contacts {
+  font-family: 'Metamorphous', 'fallback', Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
